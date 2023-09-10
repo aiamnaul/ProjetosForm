@@ -17,3 +17,9 @@ fieldset{
 form{
  margin-left: 40%;
 }
+
+#idName, #idSurname, #idDate, #idEndereco, #idNameMae, #idNamePai, #idMail, #idTel, #idSerie{
+  border-radius: 10px;
+  height: 20px;
+  width: 200px;
+}
