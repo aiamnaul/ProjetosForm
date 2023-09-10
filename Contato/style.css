@@ -1,0 +1,56 @@
+*{
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(35deg, LightPink 30%, GhostWhite);;
+}
+
+legend{
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  font-size: 30px;
+}
+
+fieldset{
+  padding: 20px;
+  margin: 10px;
+}
+
+form{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#idNome, #idMail, #IdEmpresa, #idTelefone, #idMotivo, .inputList {
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  height: 30px;
+  width: 30%;
+  box-shadow: 0px 0px 10px;
+  border: none;
+  margin: 10px;
+  text-align: center;
+}
+
+#idMensagem{
+  border: none;
+  margin: 10px;
+  box-shadow: 0px 0px 10px;
+  align-items: center;
+  text-align: center;
+  width: 30%;
+  border-radius: 10px;
+}
+
+button{
+  font-size: 1em;
+  width: 15%;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 40px;
+  box-shadow: 0px 0px 10px;
+}
