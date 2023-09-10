@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+}
+
+legend{
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  font-size: 30px;
+}
+
+fieldset{
+  padding: 20px;
+  margin: 10px;
+}
+
+form{
+ margin-left: 40%;
+}
